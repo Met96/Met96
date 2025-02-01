@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mattia</h1>
-<h3 align="center">A passionate Frontend Developer from Italy</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 - 🌱 I’m currently learning **react native and expo for mobile developing**
-
 - 💬 Ask me about **vue, nuxtjs, react, nextjs, astro**
+- 🎓 Studies for Computer Science at High School
+- 🎓 Studies for Frontend Developer at Istituto Cappellari
+- 🏡 Lives in Milan, Italy
+- ⚡ Fun Facts : 🍕 🏎️ ⚽️ 🛫 🌊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
