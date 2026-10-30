@@ -35,7 +35,7 @@ Designed, built and shipped by me, from idea to the App Store.
 
 | Project | My role | Result |
 | --- | --- | --- |
-| **Heineken · Pubscription** — Fire TV app + web, with Amazon Ads (2026) | Frontend Team Lead, 3 engineers | Heineken's "streaming service for nights out". React Native for Fire TV OS, Next.js, Payload CMS. Praised by Heineken for its **speed and UX** |
+| **Streaming for nights out** — Fire TV app + web for a global beer brand (2026) | Frontend Team Lead, 3 engineers | A streaming service built around nights out. React Native for Fire TV OS, Next.js, Payload CMS. Praised by the client for its **speed and UX** |
 | **Woolrich** — headless e-commerce | Team Lead, 5 engineers | **Zero-downtime go-live**, error rate **below 1%**, perfect Lighthouse Accessibility and Best Practices, 40+ component Storybook library |
 | **Giorgio Armani** — flagship site | Performance Lead, 3 engineers | Mobile Lighthouse **50 → 85**, 35+ points above every direct luxury competitor |
 | **[THRON × Storyblok connector](https://marketplace.thron.com/EN/apps/storyblok-connector)** — official integration | Creator | Brings THRON's media library into Storyblok: search, crop, variants and the THRON player, without leaving the CMS. Published on the **THRON Marketplace** |
